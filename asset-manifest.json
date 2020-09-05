@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/zigmund/static/css/main.3c4cbdc3.chunk.css",
+    "main.css": "/zigmund/static/css/main.a9659c65.chunk.css",
     "main.js": "/zigmund/static/js/main.9bc1a462.chunk.js",
     "main.js.map": "/zigmund/static/js/main.9bc1a462.chunk.js.map",
     "runtime-main.js": "/zigmund/static/js/runtime-main.0cb39603.js",
@@ -8,15 +8,15 @@
     "static/js/2.ef238f3b.chunk.js": "/zigmund/static/js/2.ef238f3b.chunk.js",
     "static/js/2.ef238f3b.chunk.js.map": "/zigmund/static/js/2.ef238f3b.chunk.js.map",
     "index.html": "/zigmund/index.html",
-    "precache-manifest.e94eb1d1e3d67c38fef58388bc4801c6.js": "/zigmund/precache-manifest.e94eb1d1e3d67c38fef58388bc4801c6.js",
+    "precache-manifest.5cd70d0ac8412ebc81ea734b7a92a409.js": "/zigmund/precache-manifest.5cd70d0ac8412ebc81ea734b7a92a409.js",
     "service-worker.js": "/zigmund/service-worker.js",
-    "static/css/main.3c4cbdc3.chunk.css.map": "/zigmund/static/css/main.3c4cbdc3.chunk.css.map",
+    "static/css/main.a9659c65.chunk.css.map": "/zigmund/static/css/main.a9659c65.chunk.css.map",
     "static/js/2.ef238f3b.chunk.js.LICENSE.txt": "/zigmund/static/js/2.ef238f3b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0cb39603.js",
     "static/js/2.ef238f3b.chunk.js",
-    "static/css/main.3c4cbdc3.chunk.css",
+    "static/css/main.a9659c65.chunk.css",
     "static/js/main.9bc1a462.chunk.js"
   ]
 }

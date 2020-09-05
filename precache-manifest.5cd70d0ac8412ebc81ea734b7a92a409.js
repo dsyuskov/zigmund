@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80f99377fd6f9f90290620f80f560c87",
+    "revision": "b39098095351d8733c50d99fe91c4e17",
     "url": "/zigmund/index.html"
   },
   {
-    "revision": "9c76460d7ee055dbb99e",
-    "url": "/zigmund/static/css/main.3c4cbdc3.chunk.css"
+    "revision": "99a4e176aa8f694b3c39",
+    "url": "/zigmund/static/css/main.a9659c65.chunk.css"
   },
   {
     "revision": "8263b3238e52007b17c0",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zigmund/static/js/2.ef238f3b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c76460d7ee055dbb99e",
+    "revision": "99a4e176aa8f694b3c39",
     "url": "/zigmund/static/js/main.9bc1a462.chunk.js"
   },
   {

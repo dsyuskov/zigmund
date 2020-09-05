@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zigmund/precache-manifest.e94eb1d1e3d67c38fef58388bc4801c6.js"
+  "/zigmund/precache-manifest.5cd70d0ac8412ebc81ea734b7a92a409.js"
 );
 
 self.addEventListener('message', (event) => {
