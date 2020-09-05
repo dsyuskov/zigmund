@@ -1,0 +1,26 @@
+@import '../../constants/constatnts.scss';
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  list-style-type: none;
+
+  &__item {
+    width: 30px;
+    padding: 0.3rem;
+    margin: 0.3rem;
+    border: 1px solid $pagination-item_border;
+    border-radius: 0.3rem;
+    text-align: center;
+    cursor: pointer;
+
+    &--active {
+      background: $pagination-item--active_background;
+    }
+
+    &--no-click {
+      cursor: default;
+    }
+  }
+}

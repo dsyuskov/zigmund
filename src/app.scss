@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.repository-list {
+  width: 100%;
+}
+
+.search {
+  &--margin {
+    margin: 1rem;
+  }
+}
+
+.no-result {
+  text-align: center;
+  &__company-name {
+    font-weight: bold;
+  }
+}
