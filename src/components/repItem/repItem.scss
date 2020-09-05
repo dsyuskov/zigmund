@@ -1,0 +1,34 @@
+@import '../../constants/constatnts.scss';
+
+.rep-item {
+  box-sizing: border-box;
+  border: 1px solid $rep-item_border;
+  border-radius: 5px;
+  padding: 1rem;
+  margin: 1rem 0;
+
+  &__name {
+    margin-bottom: 1rem;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  &__description {
+    margin-bottom: 1rem;
+  }
+
+  &__info {
+    display: flex;
+  }
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  padding-right: 1rem;
+
+  &__count {
+    margin-left: 0.2rem;
+  }
+}
